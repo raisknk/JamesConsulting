@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+#wrapper {
+    width :845px;
+    padding: 0px;
+    margin: 0px auto;
+    background-color:gray;
+}
+#header {
+    background-color:gray;
+    margin-bottom: 20px;
+}
+#header h1 {
+    display: inline-block;
+    width: 400px;
+    margin-left:20px;
+    color:blue;
+    }
+    #nav {
+    align-items: center;
+    display: flex;
+    margin-left: 20px;
+    border-radius: 5px;
+    list-style: none;
+    background-color:gray;
+    justify-content: space-around;
+    text-emphasis: none;
+    }
+#project  div {
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    margin-left: 5px;
+}
+    #project div img{
+        width: 25px;
+        background-color: rgb(38, 103, 163);
+    }
+    #project div p {
+        background-color: rgb(38, 103, 163);
+        margin-top: -6px;
+        padding: 6px;
+        height: 100px;
+        
+    }
+    #project div h2 {
+        background-color:rgb(38, 103, 163);
+    }
+    #project div button{
+        background-color:blue;
+        padding:8px;
+        color: white;
+        border-radius: 5px;
+        border: 1px darkblue;
+        box-shadow: black;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    #project_2 div img{
+        display: inline-block;
+        padding: 8px;
+    }
+    #project_2{
+        display: flex;
+        vertical-align: top;
+        width: 250px;
+        margin-left: 5px;
+
+    }
+    
+    #footer ul{
+        margin-bottom: 20px;
+    }
+    #nav{
+        width:820px;
+        list-style: none;
+        background-color: lightgray;
+        font-size: 20px;
+        display: flex;
+    }
+
+    
+    
+
+   
+
+    
+    
+
+
+
+
